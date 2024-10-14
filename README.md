@@ -1,10 +1,10 @@
-Library Management System
+# Library Management System
 
- Overview
+## Overview
 
 The **Library Management System** is a web-based application designed to help libraries manage books, members, and borrowing activities. With an intuitive interface and comprehensive functionality, this application streamlines library operations and enhances user experience.
 
-Features
+## Features
 
 - 📚 **Book Management**: Add, edit, delete, and view books with details like title, author, genre, and availability.
 - 👤 **Member Management**: Easily add, view, and manage library members.
@@ -15,8 +15,8 @@ Features
 ## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap
-- **Backend**: PHP
-- **Database**: MySQL
+- **Backend**: Flask(a lightweight Python web framework) 
+- **Database**: MongoDB
 
 ## Installation
 
